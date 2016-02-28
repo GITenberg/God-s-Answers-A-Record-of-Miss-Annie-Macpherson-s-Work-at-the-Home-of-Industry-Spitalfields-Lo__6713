@@ -1,0 +1,24 @@
+_repo: God-s-Answers-A-Record-of-Miss-Annie-Macpherson-s-Work-at-the-Home-of-Industry-Spitalfields-Lo__6713
+creator:
+  author:
+    agent_name: Lowe, Clara M. S.
+    gutenberg_agent_id: '2172'
+    url: http://www.gutenberg.org/2009/agents/2172
+description: ''
+gutenberg_issued: '2004-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6713'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Church work with children'
+- !lcsh 'Canada -- Emigration and immigration'
+- !lcsh 'Macpherson, Annie'
+- !lcc 'BV'
+- !lcsh 'Home missions'
+title: "God's Answers\r\nA Record of Miss Annie Macpherson's Work at the Home of Industry,\
+  \ Spitalfields, London, and in Canada"
+url: http://www.gutenberg.org/ebooks/6713
