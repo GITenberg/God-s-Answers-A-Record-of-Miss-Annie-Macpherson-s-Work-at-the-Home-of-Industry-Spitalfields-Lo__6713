@@ -1,10 +1,16 @@
 _repo: God-s-Answers-A-Record-of-Miss-Annie-Macpherson-s-Work-at-the-Home-of-Industry-Spitalfields-Lo__6713
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Lowe, Clara M. S.
     gutenberg_agent_id: '2172'
     url: http://www.gutenberg.org/2009/agents/2172
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6713#God-s-Answers-A-Record-of-Miss-Annie-Macpherson-s-Work-at-the-Home-of-Industry-Spitalfields-Lo_
 gutenberg_issued: '2004-10-01'
 gutenberg_type: Text
 identifiers:
